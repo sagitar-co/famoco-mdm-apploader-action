@@ -1,6 +1,6 @@
 {
   "name": "famoco-mdm-apploader-action",
-  "version": "1.4.4",
+  "version": "2.0.0",
   "description": "Famoco MDM app uploader",
   "main": "dist/index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/sagitar-co/famoco-mdm-apploader-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.7",
-    "axios": "^0.21.1",
-    "form-data": "^4.0.0",
-    "fs": "0.0.1-security"
+    "@actions/core": "^1.11.1",
+    "axios": "^1.7.9",
+    "form-data": "^4.0.1",
+    "fs": "0.0.2-security"
   },
   "engines": {
     "node": ">=10.0.0",
